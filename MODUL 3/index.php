@@ -1,0 +1,1 @@
+<a href="latihan/krs.php">krs</a> | <a href="latihan/ta.php">ta</a> | <a href="latihan/mk.php">mk</a>
